@@ -125,4 +125,8 @@ Execute the program.
 ```
 
 # OUPUT:
-![Alt text](output.png)
+![output](https://github.com/Renusri-Naraharasetty/ODD2023-WT-Ex-03-Timetable/assets/146916363/bfcb7d97-b907-44e3-bac1-b8cc67062dcc)
+
+# RESULT :
+The code has been executed successfully and the output has been verified.
+
